@@ -1,0 +1,13 @@
+{
+  "name": "testing-vega",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "vega-embed": "^3.26.1",
+    "vega-lib": "^4.4.0"
+  },
+  "devDependencies": {
+    "shadow-cljs": "^2.7.3"
+  }
+}
